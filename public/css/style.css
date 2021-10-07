@@ -532,18 +532,11 @@ img{
 .skills__python{
     width: 55%;
 }
-.skills__spanish{
-    width: 100%;
-}
 .skills__english{
     width: 84%;
 }
 .skills__portuguese{
-    width: 68%;
-}
-
-.skills__france{
-    width: 52%;
+    width: 100%;
 }
 
 .skills__close .skills__list{
