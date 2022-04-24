@@ -508,10 +508,10 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__html{
-    width: 80%;
+.skills__NET{
+    width: 60%;
 }
-.skills__css{
+.skills__react{
     width: 60%;
 }
 .skills__js{
