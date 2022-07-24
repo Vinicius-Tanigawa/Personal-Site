@@ -508,26 +508,20 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__NET{
+.skills__C{
     width: 60%;
 }
 .skills__react{
     width: 60%;
 }
-.skills__js{
-    width: 70%;
-}
-.skills__php{
+.skills__JS{
     width: 50%;
 }
-.skills__EC2{
+.skills__HTML{
     width: 50%;
 }
-.skills__node{
-    width: 60%;
-}
-.skills__docker{
-    width: 50%;
+.skills__julia{
+    width: 80%;
 }
 .skills__python{
     width: 80%;
@@ -537,6 +531,15 @@ img{
 }
 .skills__portuguese{
     width: 100%;
+}
+.skills__DMAIC{
+    width: 50%;
+}
+.skills__scrum{
+    width: 60%;
+}
+.skills__DevOps{
+    width: 60%;
 }
 
 .skills__close .skills__list{
