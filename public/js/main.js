@@ -50,7 +50,7 @@ skillsHeader.forEach((el) => {
 
 /*==================== TYPING ANIMATION ====================*/
 let typed = new Typed(".typing", {
-  strings: ["Electrical Engineering Student", "Junior Dev"],
+  strings: ["Electrical Engineering Student", "Junior Developer"],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
